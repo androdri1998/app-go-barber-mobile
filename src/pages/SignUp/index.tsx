@@ -33,7 +33,7 @@ import {
 interface SignUpFormData {
   email: string;
   name: string;
-  pasword: string;
+  password: string;
 }
 
 const SignUp: React.FC = () => {

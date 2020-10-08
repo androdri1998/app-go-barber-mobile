@@ -64,3 +64,4 @@ buck-out/
 
 
 src/utils/config.ts
+coverage
